@@ -1,0 +1,6 @@
+{
+  "name": "QuoteLedger",
+  "description": "One-screen RFQ supplier quote comparison and purchase order award recommendation workbench with Bank of Canada FX conversion and procurement compliance guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

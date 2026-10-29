@@ -1,0 +1,6 @@
+{
+  "summary":  "Refined embedded-instruction detection in the implementation plan so \"Embedded instruction ignored\" is raised strictly for text addressing an AI/assistant or attempting to manipulate the evaluation (e.g., \"Note to AI,\" \"ignore other quotes,\" \"award to us\"), while treating normal commercial terms (payment, delivery, returns, cancellation, warranty) purely as standard quote content without flagging.",
+  "updatedAt":  "2026-10-29T18:05:12.615773080Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
